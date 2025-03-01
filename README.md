@@ -2,7 +2,7 @@ Sri Lankan NIC Details Decoder
 The Sri Lankan NIC Details Decoder is a powerful Flutter application designed to decode and extract essential details from Sri Lankan National Identity Card (NIC) numbers. Simply enter an NIC number, and the app instantly provides key details such as date of birth, weekday of birth, age, gender, and voting eligibility. 🎉
 
 ✨ Features
-NIC Format Extraction 🔍
+NIC Format Extraction 🔍 
 Supports both old and new NIC formats, ensuring compatibility with all Sri Lankan identity numbers.
 
 Detailed Information 📊
